@@ -61,3 +61,5 @@
 .ins-section .ins-search-item.active .ins-search-preview {
     color: #fff;
 }
+
+img { max-width: 100%; }
